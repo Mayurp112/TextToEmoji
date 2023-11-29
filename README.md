@@ -17,7 +17,5 @@ https://mayurp112.github.io/TextToEmoji/
 
 <br><br><br>
 
-<h2>Screenshots</h2>
-[https://github.com/Mayurp112/TextToEmoji/assets/136470966/8c352586-6553-45f2-aac3-2fe4972b19e3)
-]
+
 
