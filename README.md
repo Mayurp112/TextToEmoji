@@ -17,7 +17,7 @@ TextToEmoji is a simple web application that converts plain text into emojis. Sp
 
 <br><br><br>
 
-Screenshots
-[![Screenshot 2023-11-29 120922](https://github.com/Mayurp112/TextToEmoji/assets/136470966/8c352586-6553-45f2-aac3-2fe4972b19e3)
-]
+<h2>Screenshots</h2>
+![Screenshot 2023-11-29 120922](https://github.com/Mayurp112/TextToEmoji/assets/136470966/8c352586-6553-45f2-aac3-2fe4972b19e3)
+
 
