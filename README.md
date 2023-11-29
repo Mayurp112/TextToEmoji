@@ -13,7 +13,7 @@ TextToEmoji is a simple web application that converts plain text into emojis. Sp
 <h5>JavaScript:</h5> Programming language for adding dynamic behavior to the application.
 
 <h2>Demo</h2>
-[ https://mayurp112.github.io/TextToEmoji/]
+https://mayurp112.github.io/TextToEmoji/
 
 <br><br><br>
 
