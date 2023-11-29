@@ -4,7 +4,7 @@ TextToEmoji is a simple web application that converts plain text into emojis. Sp
 <h1>Features</h1>
 <h3>Easy to Use:</h3> Simply enter your text, and the application will convert it into a sequence of emojis.
 <h3>Customization:</h3> Explore different emoji styles and customize the output to suit your preferences.
-<h3>Instant Conversion:</h3>h3> See the emoji transformation happen in real-time as you type.
+<h3>Instant Conversion:</h3> See the emoji transformation happen in real-time as you type.
 
   
 <h1>Technologies Used</h1>
